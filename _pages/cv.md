@@ -3,62 +3,41 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# CV
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+A public version of my CV is being prepared.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+For now, this page only provides a brief overview of my academic and technical background.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Undergraduate student in Robotics Engineering
+- University of Electronic Science and Technology of China
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+- Robot motion control
+- Robot system engineering
+- Mobile robot navigation
+- Embedded control
+- Embodied intelligence
+
+## Selected Experience
+
+- UR5 rehabilitation robot admittance control and trajectory tracking simulation
+- Mobile robot spatial interaction navigation and target following system
+- Optimization algorithm experiments and research
+- Intelligent recognition system for hydrogen trapping information in metals
+
+## Technical Skills
+
+- Programming: Python, C++, MATLAB
+- Robotics: ROS, Gazebo, RViz
+- Engineering tools: SolidWorks, LaTeX, Matplotlib
+- Research skills: experiment design, data analysis, technical writing
+
+## Note
+
+The downloadable PDF version of my CV is not publicly available at this stage.
