@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "杨博 / Robotics Portfolio"
+title                    : "Yang Bo / Robotics Portfolio"
 title_separator          : "-"
-name                     : &name "杨博"
-description              : &description "C++ / ROS2 / Control / Embedded Systems / Robotics Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yang Bo"
+description              : &description "Robotics Engineering undergraduate interested in robot control, system integration, mobile robot navigation, and embodied intelligence."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://scientisbo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "scientisbo/scientisbo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "杨博"
+  name             : "Yang Bo"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student interested in robotics, ROS2, control, embedded systems, and motor control."
+  bio              : "Undergraduate student in Robotics Engineering, interested in robot control, system integration, mobile robot navigation, and embodied intelligence."
   location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
