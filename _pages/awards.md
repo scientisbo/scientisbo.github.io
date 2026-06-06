@@ -1,18 +1,27 @@
 ---
+
 title: "Awards & Activities"
 permalink: /awards/
 author_profile: true
----
+--------------------
 
 # Awards
 
-- National Scholarship, Ministry of Education
-- UESTC Outstanding Student Scholarship
-- UESTC Academic Excellence Student
-- National First Prize, Advanced Graphics Technology and Product Information Modeling Innovation Competition
+* National Scholarship, Ministry of Education, 2023–2024
+* Outstanding Student Scholarship, University of Electronic Science and Technology of China, 2023–2025
+* Academic Excellence Honor, University of Electronic Science and Technology of China, 2023–2025
 
-# Activities
+# Competitions
 
-- Class vice monitor and discipline committee member of the Youth League branch
-- Online volunteer teaching, 20+ hours
-- Volunteer service, 78 hours
+* National First Prize, Advanced Graphics Technology and Product Information Modeling Innovation Competition
+* National Third Prize, Advanced Graphics Technology and Product Information Modeling Innovation Competition
+
+# Student Service and Volunteering
+
+* Class vice monitor and league branch committee member
+* Online volunteer teaching for students in underdeveloped regions
+* Outstanding Volunteer, University of Electronic Science and Technology of China
+
+# Notes
+
+More details will be updated selectively.
